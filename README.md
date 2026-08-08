@@ -25,7 +25,7 @@ launch chrome with remote debugger enabled:
 
 [Asteroid artwork](http://opengameart.org/sites/default/files/asteroids.zip) thanks to [phaelax](http://opengameart.org/users/phaelax)
 
-[Ship artwork from www.unluckystudio.com](www.unluckystudio.com)
+[Ship artwork from www.unluckystudio.com](https://www.unluckystudio.com)
 
 [Explosion spritesheet](http://gushh.net/blog/wp-content/uploads/2011/06/explosion_1_38_128_corrected.png)
 
